@@ -1657,4 +1657,4 @@ ${alpha.join('')}
 }
 });
 
-client.login(process.env.BOT_TOKEN);
+client.login("NzA5NzgxNzMzNzc1NzY5NjIx.Xrq5wA.mzKU019COU90ze4uw_usxB_3uNw");
